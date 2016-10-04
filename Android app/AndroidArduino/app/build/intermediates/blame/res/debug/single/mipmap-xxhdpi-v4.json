@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_bulbon.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bulbon.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_motionoff.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_motionoff.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_motion.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_motion.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_dooropen.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_dooropen.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_doorclosed.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_doorclosed.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_temprature.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_temprature.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_bulboff.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bulboff.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\led_off.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\drawable-hdpi\\led_off.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\led_on.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\drawable-hdpi\\led_on.png"
+    },
+    {
+        "merged": "D:\\myprojects\\Android\\AndroidArduino\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_icon.png",
+        "source": "D:\\myprojects\\Android\\AndroidArduino\\app\\src\\main\\res\\drawable-hdpi\\home_icon.png"
+    }
+]
